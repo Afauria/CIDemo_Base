@@ -20,7 +20,7 @@ import java.util.List;
  */
 public class BaseApplication extends Application {
 
-    public static final String ROOT_PACKAGE = "com.zwy.cidemo_app";
+    public static final String ROOT_PACKAGE = "com.zwy.cidemo";
 
     private static BaseApplication sInstance;
 
