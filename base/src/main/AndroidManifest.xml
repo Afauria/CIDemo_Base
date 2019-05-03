@@ -16,7 +16,7 @@
 
     <application>
         <meta-data
-            android:name=".glide.OkHttpGlideModule"
+            android:name="com.zwy.cidemo.base.glide.OkHttpGlideModule"
             android:value="GlideModule" />
 
     </application>
